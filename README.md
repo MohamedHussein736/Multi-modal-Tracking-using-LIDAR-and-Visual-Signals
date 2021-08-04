@@ -1,5 +1,5 @@
 # Multi-modal-Tracking-using-LIDAR-and-Visual-Signals
-### Research project on the state of the art in Multi-modal Tracking using LIDAR and Visual Signals (Semester1)
+### Research project on the state of the art in Multi-modal Tracking using LIDAR and Visual Signals (Semester 1)
 
 <br> <br>
 #  Multi-modal-Tracking state-of-the-art tree<br>
